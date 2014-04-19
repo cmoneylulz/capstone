@@ -1,4 +1,5 @@
 .hg
+.keep
 .idea/**
 public/**
 coverage/*
