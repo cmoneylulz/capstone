@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 ruby '2.0.0'
-
+#test
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
-# Use postgres as the database for Active Record
+
 gem 'pg'
 
 # Send logs to stdout for heroku
